@@ -1,0 +1,5 @@
+file = open('한글.txt', 'w', encoding='utf-8')
+file.write('반갑구나')
+file.write('\n')
+file.write('세상아')
+file.close()
